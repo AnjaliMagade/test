@@ -28,6 +28,7 @@ on:
           - Prod test
           - Test09122
           - Workflow 
+          - Workflow 1
   workflow_call:
 
     
