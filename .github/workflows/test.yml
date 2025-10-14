@@ -26,6 +26,7 @@ on:
           - Prod
           - Sonar Test
           - Prod test
+          - Test09122
   workflow_call:
 
     
