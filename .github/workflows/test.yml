@@ -25,6 +25,7 @@ on:
           - DR
           - Prod
           - Sonar Test
+          - Prod test
   workflow_call:
 
     
