@@ -29,7 +29,7 @@ on:
           - Test09122
           - Workflow 
           - Workflow 1
-          - Env Test 
+          - Evn Test 
           - Test09
   workflow_call:
 
