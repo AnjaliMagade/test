@@ -35,6 +35,7 @@ on:
           - Test10
           - Test Dev
           - Jenkins Test
+          - Test90
   workflow_call:
 
     
